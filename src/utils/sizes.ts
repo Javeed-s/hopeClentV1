@@ -1,0 +1,21 @@
+
+export const FontSize = {
+font9 : `0.563em`,
+font10 : `0.625em`,
+font11 : `0.688em`,
+font12 : `0.75em`,
+ font13 : `0.813em`,
+font14 : `0.875em`,
+font15 : `0.938em`,
+font16 : `1em`,
+font17 : `1.063em`,
+font18 : `1.125em`,
+font19 : `1.188em`,
+font20 : `1.25em`,
+font22 : `1.375em`,
+font25 : `1.563em`,
+font28 : `1.75em`,
+font29 : `1.813em`,
+font30 : `1.875em`,
+font40 : `2.5em`,
+}
